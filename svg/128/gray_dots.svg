@@ -1,0 +1,73 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_18_1695)">
+<rect width="128" height="128" fill="#999999"/>
+<g opacity="0.75">
+<rect x="31.5" y="31.5" width="1" height="1" fill="white"/>
+<rect x="63.5" y="31.5" width="1" height="1" fill="white"/>
+<rect x="95.5" y="31.5" width="1" height="1" fill="white"/>
+<rect x="95.5" y="63.5" width="1" height="1" fill="white"/>
+<rect x="31.5" y="63.5" width="1" height="1" fill="white"/>
+<rect x="63.5" y="63.5" width="1" height="1" fill="white"/>
+<rect x="95.5" y="95.5" width="1" height="1" fill="white"/>
+<rect x="31.5" y="95.5" width="1" height="1" fill="white"/>
+<rect x="63.5" y="95.5" width="1" height="1" fill="white"/>
+</g>
+<g opacity="0.25">
+<rect x="95.5" y="15.5" width="1" height="1" fill="white"/>
+<rect x="15.5" y="31.5" width="1" height="1" fill="white"/>
+<rect x="47.5" y="31.5" width="1" height="1" fill="white"/>
+<rect x="79.5" y="31.5" width="1" height="1" fill="white"/>
+<rect x="111.5" y="31.5" width="1" height="1" fill="white"/>
+<rect x="31.5" y="15.5" width="1" height="1" fill="white"/>
+<rect x="15.5" y="15.5" width="1" height="1" fill="white"/>
+<rect x="47.5" y="15.5" width="1" height="1" fill="white"/>
+<rect x="79.5" y="15.5" width="1" height="1" fill="white"/>
+<rect x="111.5" y="15.5" width="1" height="1" fill="white"/>
+<rect x="63.5" y="15.5" width="1" height="1" fill="white"/>
+<rect x="95.5" y="47.5" width="1" height="1" fill="white"/>
+<rect x="15.5" y="63.5" width="1" height="1" fill="white"/>
+<rect x="47.5" y="63.5" width="1" height="1" fill="white"/>
+<rect x="79.5" y="63.5" width="1" height="1" fill="white"/>
+<rect x="111.5" y="63.5" width="1" height="1" fill="white"/>
+<rect x="31.5" y="47.5" width="1" height="1" fill="white"/>
+<rect x="15.5" y="47.5" width="1" height="1" fill="white"/>
+<rect x="47.5" y="47.5" width="1" height="1" fill="white"/>
+<rect x="79.5" y="47.5" width="1" height="1" fill="white"/>
+<rect x="111.5" y="47.5" width="1" height="1" fill="white"/>
+<rect x="63.5" y="47.5" width="1" height="1" fill="white"/>
+<rect x="95.5" y="111.5" width="1" height="1" fill="white"/>
+<rect x="95.5" y="79.5" width="1" height="1" fill="white"/>
+<rect x="15.5" y="95.5" width="1" height="1" fill="white"/>
+<rect x="47.5" y="95.5" width="1" height="1" fill="white"/>
+<rect x="79.5" y="95.5" width="1" height="1" fill="white"/>
+<rect x="111.5" y="95.5" width="1" height="1" fill="white"/>
+<rect x="31.5" y="111.5" width="1" height="1" fill="white"/>
+<rect x="15.5" y="111.5" width="1" height="1" fill="white"/>
+<rect x="47.5" y="111.5" width="1" height="1" fill="white"/>
+<rect x="79.5" y="111.5" width="1" height="1" fill="white"/>
+<rect x="111.5" y="111.5" width="1" height="1" fill="white"/>
+<rect x="31.5" y="79.5" width="1" height="1" fill="white"/>
+<rect x="15.5" y="79.5" width="1" height="1" fill="white"/>
+<rect x="47.5" y="79.5" width="1" height="1" fill="white"/>
+<rect x="79.5" y="79.5" width="1" height="1" fill="white"/>
+<rect x="111.5" y="79.5" width="1" height="1" fill="white"/>
+<rect x="63.5" y="111.5" width="1" height="1" fill="white"/>
+<rect x="63.5" y="79.5" width="1" height="1" fill="white"/>
+</g>
+<g opacity="0.5">
+<rect x="-0.5" y="48" width="1" height="32" fill="white"/>
+<rect width="32" height="1" transform="matrix(1 0 0 -1 48 0.5)" fill="white"/>
+<rect width="32" height="1" transform="matrix(1 0 0 -1 48 128.5)" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M128.5 112.5H127.5V127.5H112.5V128.5H127.5H128.5V127.5V112.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 112.5H-0.5V127.5V128.5H0.5H15.5V127.5H0.5V112.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.5 -0.5H-0.5V0.5V15.5H0.5V0.5H15.5V-0.5H0.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M127.5 0.5H112.5V-0.5H127.5H128.5V0.5V15.5H127.5V0.5Z" fill="white"/>
+<rect x="127.5" y="48" width="1" height="32" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_18_1695">
+<rect width="128" height="128" fill="white"/>
+</clipPath>
+</defs>
+</svg>
