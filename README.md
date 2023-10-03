@@ -12,7 +12,7 @@
 📼 Also in this series:
 - 👖 [Kinematic Walker](https://github.com/astrochili/defold-kinematic-walker)
 - 🎥 [Operator](https://github.com/astrochili/defold-operator)
-- 🏗️ [TrenchBroom](https://github.com/astrochili/defold-trenchbroom)
+- 🏗️ [TrenchFold](https://github.com/astrochili/defold-trenchfold)
 - 🎄 [Illumination](https://github.com/astrochili/defold-illumination)
 
 ## Overview
