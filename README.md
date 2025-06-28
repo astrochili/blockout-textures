@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/4752473/179771162-b0de179a-c891-48fe-bdc1-48c3d749f9b9.jpg)
+![logo](https://github.com/user-attachments/assets/47f0a8ad-9ea8-4505-ac90-8caf95d34b2d)
 
 # Blockout Textures
 
@@ -19,6 +19,8 @@
 
 This is a set of free to use blockout textures to make level prototypes.
 
+![preview](https://github.com/user-attachments/assets/8597bf2a-8daa-4f02-aa47-104e0d271953)
+
 ## Sizes
 
 - [x] 64
@@ -33,8 +35,11 @@ This is a set of free to use blockout textures to make level prototypes.
 - [x] Cross
 - [x] Dots
 - [x] Grid
+- [x] Mark
 
 ## Colors
+
+### Basic
 
 - [x] Black
 - [x] Gray
@@ -47,6 +52,10 @@ This is a set of free to use blockout textures to make level prototypes.
 - [x] Blue + Light
 - [x] Purple + Light
 
-## Preview
+### Nature
 
-![preview](https://user-images.githubusercontent.com/4752473/179763439-956b0be0-157a-4fc3-a4fe-237972b5479c.png)
+- [x] Sand (4 shades) 
+- [x] Dirt (4 shades)
+- [x] Grass (4 shades)
+- [x] Water (4 shades)
+- [x] Rock (4 shades)
